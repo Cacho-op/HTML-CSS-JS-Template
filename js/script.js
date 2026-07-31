@@ -15,7 +15,7 @@ function toggleNavigation(){
 }
 
 function resetNavigation(){
-    const minWidth=1250;
+    const minWidth=1200;
     const mainNavigation=document.getElementById("main-navigation");
     const mainNavigationCssDisplay=window.getComputedStyle(mainNavigation).display;
     //smaller screen
