@@ -1,3 +1,4 @@
-# Digital Portfolio Template
+#  dream Cacho's Digital Portfolio 
 
-This is a HTML-CSS-JavaScript template to create your digital portfolio.  You could start from scratch or you could save time and start with this template.  If you are going to use this template please fork and then clone this template.
+I was in group 12. Our final presentation is centered around keeping communities safe.
+ Live demo: https://your-username.github.io/HTML-CSS-JS-Template/ 
