@@ -86,8 +86,8 @@ nav{
     padding:1rem;
 }
 .project:hover, #skills ul li:hover{
-    background: radial-gradient(white,Violet);
-}
+    background:  linear-gradient(135deg, rgba(255,255,255,0.98), rgba(245,250,255,0.98));
+  outline: 2px solid rgba(125,185,232,0.18);
 .project *{
     margin:1rem auto;
 }
